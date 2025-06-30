@@ -9,11 +9,11 @@
 - 🖱️ Hover effects, responsive on mobile & desktop
 - ⚡ Built with modular components and context for clean structure
 - Make your ToDo List
-- Finish you tasks
+- Finish your tasks
 ## 🚀 Getting Started
-git clone https://github.com/Madhur24b/todo-app-nextjs.git
-cd todo-app-nextjs
-npm install
-npm run dev
-Run this in your Terminal
-Open [http://localhost:3000] in your browser.
+-git clone https://github.com/Madhur24b/todo-app-nextjs.git
+-cd todo-app-nextjs
+-npm install
+-npm run dev
+-Run this in your Terminal
+-Open [http://localhost:3000] in your browser.
