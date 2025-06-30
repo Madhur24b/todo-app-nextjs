@@ -11,9 +11,15 @@
 - Make your ToDo List
 - Finish your tasks
 ## 🚀 Getting Started
--git clone https://github.com/Madhur24b/todo-app-nextjs.git
--cd todo-app-nextjs
--npm install
--npm run dev
--Run this in your Terminal
--Open [http://localhost:3000] in your browser.
+
+Clone the repo and install dependencies:
+
+```bash
+git clone https://github.com/Madhur24b/todo-app-nextjs.git
+cd todo-app-nextjs
+npm install
+npm run dev
+Then open:
+
+http://localhost:3000 in your browser.
+
