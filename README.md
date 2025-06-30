@@ -19,7 +19,10 @@ git clone https://github.com/Madhur24b/todo-app-nextjs.git
 cd todo-app-nextjs
 npm install
 npm run dev
+```
+
 Then open:
 
-http://localhost:3000 in your browser.
+[http://localhost:3000](http://localhost:3000) in your browser.
 
+---
