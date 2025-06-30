@@ -2,7 +2,6 @@
 
 
 ## ✨ Features
-
 - ➕ **Add TODOs** on `/add`
 - 👀 **View TODOs** on `/view`
 - ✏️ **Edit & delete TODOs** on `/edit`
@@ -10,12 +9,8 @@
 - 🖱️ Hover effects, responsive on mobile & desktop
 - ⚡ Built with modular components and context for clean structure
 - Make your ToDo List
-- Finish you tasks 
-----
-
+- Finish you tasks
 ## 🚀 Getting Started
-
-
 git clone https://github.com/Madhur24b/todo-app-nextjs.git
 cd todo-app-nextjs
 npm install
